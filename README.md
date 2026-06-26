@@ -1,168 +1,97 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F7F4F4&background=84F4FF00&center=true&random=true&width=435&lines=SEPURI+SAI+KRISHNA" alt="Typing SVG" /></a>
-</div>
-
-
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F4F4&background=84F4FF00&center=true&random=true&width=435&lines=Senior+Data+Engineer" alt="Typing SVG" /></a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEPURI-SAI-KRISHNA&label=PROFILE+VIEWS" alt="Traffic" />
-</div>
-
-
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sepuri-saikrishna-b9555b278/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sepurisaikrishna55@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SEPURI-SAI-KRISHNA/SEPURI-SAI-KRISHNA/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Apache%20Iceberg-29B5E8?style=for-the-badge&logo=apache&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/System%20Design-2c3e50?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Agentic%20AI-9b59b6?style=for-the-badge&logo=openai&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
-</div>
-
----
-
-
-# 👋 Hi, I’m SEPURI-SAI-KRISHNA
-
-**Data Engineer** | Spark • Flink • Airflow • AWS • Streaming • AI Orchestration
-
-I design and operate **reliable, scalable batch and real-time data platforms** with a strong focus on:
-
-* correctness
-* performance
-* failure handling
-* automation
-
-> I enjoy turning complex distributed systems into **predictable, operable platforms**.
-
----
-
-## 🧠 What I Build
-
-* Large-scale **batch & streaming pipelines**
-* **Retry-safe, idempotent** data workflows
-* **Low-latency analytics** systems
-* **AI-driven orchestration** using metadata & MCP
-* Cloud-native data platforms on **AWS**
-
----
-
-## ⚙️ Core Technology Stack
-
-**Languages**
-`Python` · `SQL` · `Java`
-
-**Data & Streaming**
-`Apache Spark` · `Apache Flink` · `Kafka` · `Iceberg`
-
-**Orchestration & Cloud**
-`Airflow` · `AWS (S3, EMR, EMR Serverless, Glue, Athena)` · `Docker`
-
-**AI & Agents**
-`Model Context Protocol (MCP)` · `AI Agents` · `LLMs`
-
-
----
-
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1500&color=F7F4F4&background=FFFFFF00&center=true&random=true&width=435&lines=P+U+R+S+U+I+T" alt="Typing SVG" /></a>
-</div>
-
+<!-- ░░░ HEADER BANNER ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,6,2,18&height=210&section=header&text=Sepuri%20Sai%20Krishna&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Data%20Engineer%20%C2%B7%20Building%20AI%20Agents%20%40%20Perfios&descAlignY=58&descSize=18" alt="header" />
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Code%20Frequency-Visualization-ff5733?style=for-the-badge&logo=github&logoColor=white" />
-  <br /><br />
+<a href="https://sepuri-sai-krishna.pages.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F72585&center=true&width=680&lines=Real-time+data+systems+at+scale;Building+KScan+AI+%E2%80%94+30M%2B+businesses+%C2%B7+750%2B+sources;Apache+Spark+%C2%B7+Flink+%C2%B7+Airflow+%C2%B7+Kafka;AI+Agents+%C2%B7+MCP+%C2%B7+LLMs;Merged+PRs+into+apple%2Fcontainer+%E2%9C%A8" alt="typing" />
+</a>
 
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEPURI-SAI-KRISHNA&bg_color=000000&color=7aa2f7&line=7aa2f7&point=false&area=true&hide_border=true" alt="Neon Graph" />
-  <br /><br />
-</div>
+<p>
+  <a href="https://sepuri-sai-krishna.pages.dev"><img src="https://img.shields.io/badge/%F0%9F%9A%80_LIVE_PORTFOLIO-F72585?style=for-the-badge&labelColor=1a012b" /></a>
+  <a href="https://sepuri-sai-krishna.pages.dev"><img src="https://img.shields.io/badge/%F0%9F%A4%96_CHAT_WITH_MY_AI-7209B7?style=for-the-badge&labelColor=1a012b" /></a>
+  <a href="https://www.linkedin.com/in/sepuri-saikrishna-b9555b278/"><img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a012b" /></a>
+  <a href="mailto:sepurisaikrishna55@gmail.com"><img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a012b" /></a>
+  <a href="https://leetcode.com/u/sai_krishna123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a012b" /></a>
+</p>
 
-
-
----
-
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1500&color=F7F4F4&background=FFFFFF00&center=true&random=true&width=435&lines=L+E+E+T+C+O+D+E" alt="Typing SVG" /></a>
-</div>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode%20Status-Online-success?style=for-the-badge&logo=leetcode&logoColor=white" />
-  <br/><br/>
-  <br/><br/>
-
-  <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sai_krishna123?theme=tokyonight&font=Fira%20Code&ext=activity" alt="LeetCode Activity Graph" />
-  </div>
-
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/dynamic/json?style=plastic&label=Solved&query=totalSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fsai_krishna123&color=orange&prefix=%20" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=plastic&label=Acceptance&query=acceptanceRate&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fsai_krishna123&color=blueviolet&suffix=%25" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=plastic&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fsai_krishna123&color=ff69b4&prefix=%23" />
-
-
-
-  <br/><br/>
-
-  <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=00B8A3&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fsai_krishna123&logo=leetcode&logoColor=yellow" />
-  
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFC01E&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fsai_krishna123&logo=leetcode&logoColor=yellow" />
-  
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=EF4743&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Fsai_krishna123&logo=leetcode&logoColor=yellow" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=SEPURI-SAI-KRISHNA&label=Profile+views&color=F72585&style=flat-square" />
+<img src="https://img.shields.io/github/followers/SEPURI-SAI-KRISHNA?label=Followers&style=flat-square&color=7209B7" />
 
 </div>
 
+## ⚡ whoami
 
----
-
-<div align="center">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1500&color=F7F4F4&background=FFFFFF00&center=true&random=true&width=435&lines=S+T+A+C+K" alt="Typing SVG" /></a>
-</div>
-
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LANGUAGE%20CORE-ONLINE-00C8FF?style=for-the-badge&logo=cpu&logoColor=white" />
-  <br/><br/>
-</div>
-
-```mermaid
-%%{init: { 'theme': 'dark', 'themeVariables': { 'pie1': '#7aa2f7', 'pie2': '#bb9af7', 'pie3': '#7dcfff', 'pie4': '#ff9e64', 'pieTitleTextSize': '20px', 'pieLegendTextSize': '16px', 'fontFamily': 'Fira Code' } } }%%
-pie showData
-    title STACK ALLOCATION
-    "🐍 Python" : 65
-    "🐘 SQL" : 30
-    "☕ Java" : 5
+```python
+sai = DataEngineer(
+    role      = "Senior Data Engineer @ Perfios",
+    building  = "KScan AI — Smart Business Intelligence (30M+ businesses, 750+ sources)",
+    superpower= "real-time data systems + AI agents (MCP) at scale",
+    shipped   = ["850+ Airflow DAGs", "350M+ records on ClickHouse",
+                 "declarative stitch framework → 95% fewer Spark jobs"],
+    open_source = ["apple/container ⭐43k", "free-claude-code ⭐37k", "AIOS ⭐6k"],
+    portfolio = "https://sepuri-sai-krishna.pages.dev",  # chat with my AI agent here
+)
 ```
+
+## 🌌 Open-source contributions
+
+| Project | Stars | What I shipped |
+|---|---|---|
+| **[apple/container](https://github.com/apple/container)** | ⭐ 43k | Null-safety & safe-I/O fixes *(2 PRs merged)* |
+| **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | ⭐ 37k | Hardened pydantic validation |
+| **[agiresearch/AIOS](https://github.com/agiresearch/AIOS)** | ⭐ 6k | Safer, efficient data retrieval |
+
+## 🛠️ Arsenal
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Iceberg-1C1C1C?style=flat-square&logo=apacheiceberg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+</p>
+
+## 📊 GitHub in numbers
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEPURI-SAI-KRISHNA&show_icons=true&count_private=true&hide_border=true&theme=synthwave&title_color=F72585&icon_color=FF8C00" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEPURI-SAI-KRISHNA&layout=compact&hide_border=true&theme=synthwave&title_color=F72585&langs_count=8" alt="langs" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEPURI-SAI-KRISHNA&hide_border=true&theme=synthwave&stroke=F72585&ring=FF8C00&fire=FF8C00&currStreakLabel=F72585" alt="streak" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEPURI-SAI-KRISHNA&hide_border=true&bg_color=1a012b&color=F72585&line=FF8C00&point=ffffff&area=true&area_color=7209B7" alt="activity" />
+
+</div>
+
+## 🏙️ 3D Contribution Skyline
+
+<div align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/SEPURI-SAI-KRISHNA/SEPURI-SAI-KRISHNA/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" />
+</div>
+
+## 📈 Full Metrics
+
+<div align="center">
+  <img width="95%" src="https://raw.githubusercontent.com/SEPURI-SAI-KRISHNA/SEPURI-SAI-KRISHNA/main/github-metrics.svg" alt="metrics" />
+</div>
+
+<!-- ░░░ FOOTER BANNER ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18,2,6,12,24&height=140&section=footer&text=Let%27s%20build%20something%20at%20scale&fontSize=22&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
