@@ -10,7 +10,7 @@
 <p>
   <a href="https://sepuri-sai-krishna.pages.dev"><img src="https://img.shields.io/badge/%F0%9F%9A%80_LIVE_PORTFOLIO-F72585?style=for-the-badge&labelColor=1a012b" /></a>
   <a href="https://sepuri-sai-krishna.pages.dev"><img src="https://img.shields.io/badge/%F0%9F%A4%96_CHAT_WITH_MY_AI-7209B7?style=for-the-badge&labelColor=1a012b" /></a>
-  <a href="https://www.linkedin.com/in/sepuri-saikrishna-b9555b278/"><img src="https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a012b" /></a>
+  <a href="https://www.linkedin.com/in/sepuri-saikrishna-b9555b278/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin-white&logoColor=white&labelColor=1a012b" /></a>
   <a href="mailto:sepurisaikrishna55@gmail.com"><img src="https://img.shields.io/badge/Email-F72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a012b" /></a>
   <a href="https://leetcode.com/u/sai_krishna123/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a012b" /></a>
 </p>
@@ -29,7 +29,7 @@ sai = DataEngineer(
     superpower= "real-time data systems + AI agents (MCP) at scale",
     shipped   = ["850+ Airflow DAGs", "350M+ records on ClickHouse",
                  "declarative stitch framework → 95% fewer Spark jobs"],
-    open_source = ["apple/container ⭐43k", "free-claude-code ⭐37k", "AIOS ⭐6k"],
+    open_source = ["apple/container", "free-claude-code", "AIOS"],  # 6 merged PRs ↓
     portfolio = "https://sepuri-sai-krishna.pages.dev",  # chat with my AI agent here
 )
 ```
@@ -38,9 +38,9 @@ sai = DataEngineer(
 
 | Project | Stars | What I shipped |
 |---|---|---|
-| **[apple/container](https://github.com/apple/container)** | ⭐ 43k | Null-safety & safe-I/O fixes *(2 PRs merged)* |
-| **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | ⭐ 37k | Hardened pydantic validation |
-| **[agiresearch/AIOS](https://github.com/agiresearch/AIOS)** | ⭐ 6k | Safer, efficient data retrieval |
+| **[apple/container](https://github.com/apple/container)** | <img src="https://img.shields.io/github/stars/apple/container?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Null-safety & safe-I/O fixes — [4 merged PRs ↗](https://github.com/apple/container/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Amerged) |
+| **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | <img src="https://img.shields.io/github/stars/Alishahryar1/free-claude-code?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Hardened pydantic validation — [merged PR ↗](https://github.com/Alishahryar1/free-claude-code/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Amerged) |
+| **[agiresearch/AIOS](https://github.com/agiresearch/AIOS)** | <img src="https://img.shields.io/github/stars/agiresearch/AIOS?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Safer, efficient data retrieval — [merged PR ↗](https://github.com/agiresearch/AIOS/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Amerged) |
 
 ## 🛠️ Arsenal
 
@@ -52,13 +52,13 @@ sai = DataEngineer(
   <img src="https://img.shields.io/badge/Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Iceberg-1C1C1C?style=flat-square&logo=apacheiceberg&logoColor=white" />
+  <img src="https://img.shields.io/badge/🧊_Iceberg-1C1C1C?style=flat-square" />
   <img src="https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white" />
   <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
   <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -68,16 +68,12 @@ sai = DataEngineer(
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEPURI-SAI-KRISHNA&show_icons=true&count_private=true&hide_border=true&theme=synthwave&title_color=F72585&icon_color=FF8C00" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEPURI-SAI-KRISHNA&layout=compact&hide_border=true&theme=synthwave&title_color=F72585&langs_count=8" alt="langs" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SEPURI-SAI-KRISHNA&show_icons=true&hide_border=true&theme=synthwave&title_color=F72585&icon_color=FF8C00" alt="stats" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SEPURI-SAI-KRISHNA&layout=compact&hide_border=true&theme=synthwave&title_color=F72585&langs_count=8" alt="langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEPURI-SAI-KRISHNA&hide_border=true&theme=synthwave&stroke=F72585&ring=FF8C00&fire=FF8C00&currStreakLabel=F72585" alt="streak" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEPURI-SAI-KRISHNA&hide_border=true&bg_color=1a012b&color=F72585&line=FF8C00&point=ffffff&area=true&area_color=7209B7" alt="activity" />
+<img src="https://streak-stats.demolab.com/?user=SEPURI-SAI-KRISHNA&hide_border=true&theme=synthwave&stroke=F72585&ring=FF8C00&fire=FF8C00&currStreakLabel=F72585" alt="streak" />
 
 </div>
 
@@ -91,6 +87,14 @@ sai = DataEngineer(
 
 <div align="center">
   <img width="95%" src="https://raw.githubusercontent.com/SEPURI-SAI-KRISHNA/SEPURI-SAI-KRISHNA/main/github-metrics.svg" alt="metrics" />
+</div>
+
+<!-- ░░░ CONTRIBUTION SNAKE ░░░ -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEPURI-SAI-KRISHNA/SEPURI-SAI-KRISHNA/output/github-snake-dark.svg" />
+    <img width="95%" src="https://raw.githubusercontent.com/SEPURI-SAI-KRISHNA/SEPURI-SAI-KRISHNA/output/github-snake.svg" alt="contribution snake" />
+  </picture>
 </div>
 
 <!-- ░░░ FOOTER BANNER ░░░ -->
