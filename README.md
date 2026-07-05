@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://sepuri-sai-krishna.pages.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F72585&center=true&width=680&lines=Real-time+data+systems+at+scale;Building+KScan+AI+%E2%80%94+30M%2B+businesses+%C2%B7+750%2B+sources;Apache+Spark+%C2%B7+Flink+%C2%B7+Airflow+%C2%B7+Kafka;AI+Agents+%C2%B7+MCP+%C2%B7+LLMs;Merged+PRs+into+apple%2Fcontainer+%E2%9C%A8" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&width=850&lines=Real-time+data+systems+at+scale;Building+KScan+AI+%E2%80%94+30M%2B+businesses+%C2%B7+750%2B+sources;Apache+Spark+%C2%B7+Flink+%C2%B7+Airflow+%C2%B7+Kafka;AI+Agents+%C2%B7+MCP+%C2%B7+LLMs;Merged+PRs+into+apple%2Fcontainer+%E2%9C%A8" alt="typing" />
 </a>
 
 <p>
