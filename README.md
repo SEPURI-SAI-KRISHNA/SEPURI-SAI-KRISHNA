@@ -39,7 +39,7 @@ sai = DataEngineer(
 ## 🌌 Open-source contributions
 
 <!-- OSS-CONTRIB:START -->
-**11 merged PRs across 8 projects** with a combined ⭐ 490k+ — including TensorFlow, Apache Kafka & Apache Superset.
+**11 merged PRs across 8 projects** with a combined ⭐ 493k+ — including TensorFlow, Apache Kafka & Apache Superset.
 
 | Project | Stars | What I shipped |
 |---|---|---|
