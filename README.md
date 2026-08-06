@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://sepuri-sai-krishna.pages.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&width=850&lines=Real-time+data+systems+at+scale;Building+KScan+AI+%E2%80%94+30M%2B+businesses+%C2%B7+750%2B+sources;Apache+Spark+%C2%B7+Flink+%C2%B7+Airflow+%C2%B7+Kafka;AI+Agents+%C2%B7+MCP+%C2%B7+LLMs;11+Merged+PRs+%E2%80%94+TensorFlow%2C+Kafka%2C+Superset+%26+more+%E2%9C%A8" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&width=850&lines=Real-time+data+systems+at+scale;Building+KScan+AI+%E2%80%94+30M%2B+businesses+%C2%B7+750%2B+sources;Apache+Spark+%C2%B7+Flink+%C2%B7+Airflow+%C2%B7+Kafka;AI+Agents+%C2%B7+MCP+%C2%B7+LLMs;20+Merged+PRs+%E2%80%94+TensorFlow%2C+Django%2C+Kafka+%26+more+%E2%9C%A8" alt="typing" />
 </a>
 
 <p>
@@ -29,9 +29,9 @@ sai = DataEngineer(
     superpower= "real-time data systems + AI agents (MCP) at scale",
     shipped   = ["850+ Airflow DAGs", "350M+ records on ClickHouse",
                  "declarative stitch framework → 95% fewer Spark jobs"],
-    open_source = ["TensorFlow", "Apache Kafka", "Apache Superset",
-                   "apple/container", "Headroom", "supermemory",
-                   "free-claude-code", "AIOS"],  # 11 merged PRs across 8 repos ↓
+    open_source = ["TensorFlow", "Django", "Apache Kafka", "Apache Superset",
+                   "Apache Airflow", "apple/container", "TheAlgorithms",
+                   "Headroom", "supermemory", "AIOS"],  # 20 merged PRs across 12 repos ↓
     portfolio = "https://sepuri-sai-krishna.pages.dev",  # chat with my AI agent here
 )
 ```
@@ -39,12 +39,16 @@ sai = DataEngineer(
 ## 🌌 Open-source contributions
 
 <!-- OSS-CONTRIB:START -->
-**11 merged PRs across 8 projects** with a combined ⭐ 494k+ — including TensorFlow, Apache Kafka & Apache Superset.
+**20 merged PRs across 12 projects** with a combined ⭐ 736k+ — including TensorFlow, Django & Apache Superset.
 
 | Project | Stars | What I shipped |
 |---|---|---|
 | **[tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)** | <img src="https://img.shields.io/github/stars/tensorflow/tensorflow?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Fixed NaN gradient of `tf.math.igamma` at a=1, x=0 — [merged PR ↗](https://github.com/tensorflow/tensorflow/pull/123580) |
+| **[django/django](https://github.com/django/django)** | <img src="https://img.shields.io/github/stars/django/django?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Fixed `simplify_regex()` with multiple unnamed groups — [merged PR ↗](https://github.com/django/django/pull/21700) |
+| **[TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)** | <img src="https://img.shields.io/github/stars/TheAlgorithms/Java?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Fixed out-of-bounds & infinite-loop bugs in Fibonacci/Exponential/Jump search — [3 merged PRs ↗](https://github.com/TheAlgorithms/Java/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Amerged) |
+| **[apache/airflow](https://github.com/apache/airflow)** | <img src="https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Fail deferred Cloud Composer tasks on GCP operation errors — [merged PR ↗](https://github.com/apache/airflow/pull/70430) |
 | **[apache/superset](https://github.com/apache/superset)** | <img src="https://img.shields.io/github/stars/apache/superset?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Fixed case-insensitive match ranking in dropdown search — [merged PR ↗](https://github.com/apache/superset/pull/42408) |
+| **[DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)** | <img src="https://img.shields.io/github/stars/DeusData/codebase-memory-mcp?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Bounds-checked the Cypher query engine against stack overflow & silent corruption — [4 merged PRs ↗](https://github.com/DeusData/codebase-memory-mcp/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Amerged) |
 | **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** | <img src="https://img.shields.io/github/stars/headroomlabs-ai/headroom?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Fixed broken release-metadata script reference — [merged PR ↗](https://github.com/headroomlabs-ai/headroom/pull/1246) |
 | **[apple/container](https://github.com/apple/container)** | <img src="https://img.shields.io/github/stars/apple/container?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Null-safety & safe-I/O fixes — [4 merged PRs ↗](https://github.com/apple/container/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Amerged) |
 | **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** | <img src="https://img.shields.io/github/stars/Alishahryar1/free-claude-code?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Hardened pydantic validation — [merged PR ↗](https://github.com/Alishahryar1/free-claude-code/pull/180) |
@@ -53,19 +57,19 @@ sai = DataEngineer(
 | **[agiresearch/AIOS](https://github.com/agiresearch/AIOS)** | <img src="https://img.shields.io/github/stars/agiresearch/AIOS?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=FF8C00" alt="stars" /> | Safer, efficient data retrieval implementation — [merged PR ↗](https://github.com/agiresearch/AIOS/pull/543) |
 
 <details>
-<summary>🔭 Also currently in review across nginx, Apache Spark, Elasticsearch, Airflow & more (27 open PRs)</summary>
+<summary>🔭 Also currently in review across Apache Spark, Kafka, Elasticsearch, CPython & more (33 open PRs)</summary>
 <br/>
 
 | Project | Stars | Pending PR |
 |---|---|---|
-| **[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** | <img src="https://img.shields.io/github/stars/NousResearch/hermes-agent?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | 3 open PRs — [review ↗](https://github.com/NousResearch/hermes-agent/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Aopen) |
-| **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** | <img src="https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | 2 open PRs — [review ↗](https://github.com/JuliusBrussee/caveman/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Aopen) |
-| **[elastic/elasticsearch](https://github.com/elastic/elasticsearch)** | <img src="https://img.shields.io/github/stars/elastic/elasticsearch?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | ESQL attribute-qualifier fix — [review ↗](https://github.com/elastic/elasticsearch/pull/152921) |
+| **[python/cpython](https://github.com/python/cpython)** | <img src="https://img.shields.io/github/stars/python/cpython?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | Reject fractional seconds without a decimal mark in C `fromisoformat` — [review ↗](https://github.com/python/cpython/pull/155177) |
+| **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** | <img src="https://img.shields.io/github/stars/TheAlgorithms/Python?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | 2 open PRs — [review ↗](https://github.com/TheAlgorithms/Python/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Aopen) |
 | **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** | <img src="https://img.shields.io/github/stars/colbymchenry/codegraph?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | 2 open PRs — [review ↗](https://github.com/colbymchenry/codegraph/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Aopen) |
-| **[apache/airflow](https://github.com/apache/airflow)** | <img src="https://img.shields.io/github/stars/apache/airflow?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | Fail deferred Cloud Composer tasks on GCP op errors — [review ↗](https://github.com/apache/airflow/pull/70430) |
-| **[apache/spark](https://github.com/apache/spark)** | <img src="https://img.shields.io/github/stars/apache/spark?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | Fixed `slice()` returning empty for large length — [review ↗](https://github.com/apache/spark/pull/56746) |
-| **[usestrix/strix](https://github.com/usestrix/strix)** | <img src="https://img.shields.io/github/stars/usestrix/strix?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | Stopped telemetry from blocking the asyncio event loop — [review ↗](https://github.com/usestrix/strix/pull/677) |
+| **[apache/spark](https://github.com/apache/spark)** | <img src="https://img.shields.io/github/stars/apache/spark?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | 2 open PRs — [review ↗](https://github.com/apache/spark/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Aopen) |
+| **[elastic/elasticsearch](https://github.com/elastic/elasticsearch)** | <img src="https://img.shields.io/github/stars/elastic/elasticsearch?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | ESQL attribute-qualifier fix — [review ↗](https://github.com/elastic/elasticsearch/pull/152921) |
 | **[nginx/nginx](https://github.com/nginx/nginx)** | <img src="https://img.shields.io/github/stars/nginx/nginx?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | Early-hints byte accounting & header fixes — [review ↗](https://github.com/nginx/nginx/pulls?q=is%3Apr+author%3ASEPURI-SAI-KRISHNA+is%3Aopen) |
+| **[apache/kafka](https://github.com/apache/kafka)** | <img src="https://img.shields.io/github/stars/apache/kafka?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | `LocalLeaderEndPoint` UNDEFINED_EPOCH fix — [review ↗](https://github.com/apache/kafka/pull/22756) |
+| **[apache/cassandra](https://github.com/apache/cassandra)** | <img src="https://img.shields.io/github/stars/apache/cassandra?style=flat-square&label=%E2%AD%90&labelColor=1a012b&color=7209B7" alt="stars" /> | Fixed deserialization of column masks in cluster metadata — [review ↗](https://github.com/apache/cassandra/pull/4997) |
 
 </details>
 <!-- OSS-CONTRIB:END -->
