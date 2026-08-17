@@ -25,8 +25,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_notable: yes            # org logos of repos you've contributed to (apple, etc.)
-          plugin_notable_repositories: yes
+          plugin_notable: no             # disable flaky upstream section that intermittently renders errors
           plugin_leetcode: yes
           plugin_leetcode_user: sai_krishna123
           plugin_leetcode_sections: solved, skills
