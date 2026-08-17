@@ -100,11 +100,6 @@ sai = DataEngineer(
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SEPURI-SAI-KRISHNA&show_icons=true&hide_border=true&theme=synthwave&title_color=F72585&icon_color=FF8C00" alt="stats" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SEPURI-SAI-KRISHNA&layout=compact&hide_border=true&theme=synthwave&title_color=F72585&langs_count=8" alt="langs" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=SEPURI-SAI-KRISHNA&hide_border=true&theme=synthwave&stroke=F72585&ring=FF8C00&fire=FF8C00&currStreakLabel=F72585" alt="streak" />
 
 </div>
