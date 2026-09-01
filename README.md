@@ -39,7 +39,7 @@ sai = DataEngineer(
 ## 🌌 Open-source contributions
 
 <!-- OSS-CONTRIB:START -->
-**20 merged PRs across 12 projects** with a combined ⭐ 736k+ — including TensorFlow, Django & Apache Superset.
+**20 merged PRs across 12 projects** with a combined ⭐ 756k+ — including TensorFlow, Django & Apache Superset.
 
 | Project | Stars | What I shipped |
 |---|---|---|
